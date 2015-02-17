@@ -9,3 +9,15 @@
 
 # RStudio files
 .Rproj.user/
+.Rproj.user
+
+GaCDProject.Rproj
+
+Instructions.txt
+
+UCI HAR Dataset/
+UCI HAR Dataset.zip
+
+tidymeans.txt
+
+*.html
